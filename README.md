@@ -85,6 +85,20 @@ Tested on:
 
 ---
 
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1.git
+
+**Open the Project:**
+
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
+--- 
 
 ---
 
